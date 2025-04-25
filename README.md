@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá! Eu sou a Victoria 👩‍💻</h1>
+<h1 align="center">Olá! Eu sou a Victoria Menenguci👩‍💻</h1>
 
 <p align="center">
   💻 Estudante de programação em aprendizado constante!<br>
