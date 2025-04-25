@@ -11,8 +11,8 @@
 
 ### 🔥 Projetos em Desenvolvimento:
 
-- 🏦 [Sistema Bancário em Java](https://github.com/seuusuario/SistemaBancario)
-- 🎓 [Gerenciamento de Alunos (Notas e Status)](https://github.com/seuusuario/AlunoJava.App)
+- 🏦 [Sistema Bancário em Java](https://github.com/victoriamalmeida/Meu-primeiro-Projeto-Java)
+- 🎓 [Gerenciamento de Alunos (Notas e Status)](https://github.com/victoriamalmeida/Monitoramento-de-Notas-dos-Estudantes)
 
 ---
 
