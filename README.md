@@ -1,24 +1,22 @@
 
-<img src="https://i.imgur.com/z9dPZbD.gif" width="100%" alt="Banner colorido de fundo"/>
-
 <h1 align="center">Olá! Eu sou a Victoria 👩‍💻</h1>
 
 <p align="center">
-  💻 Estudante de programação apaixonada por tecnologia e aprendizado constante.<br>
-  🚀 Explorando o mundo da <strong>Programação Java</strong> com projetos práticos.<br>
-  🧠 Também tenho conhecimentos em <strong>Python, HTML e CSS</strong>.
+  💻 Estudante de programação em aprendizado constante!<br>
+  🚀 Com foco para aprimoramento em <strong>Programação Java</strong> com projetos práticos.<br>
+  🧠 Tendo conhecimentos também em <strong>Python, HTML e CSS</strong>.
 </p>
 
 ---
 
-### 🔥 Projetos em Destaque
+### 🔥 Projetos em Desenvolvimento:
 
 - 🏦 [Sistema Bancário em Java](https://github.com/seuusuario/SistemaBancario)
 - 🎓 [Gerenciamento de Alunos (Notas e Status)](https://github.com/seuusuario/AlunoJava.App)
 
 ---
 
-### 🚀 Tecnologias que uso
+### 🚀 Habilidades:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
@@ -29,22 +27,19 @@
 
 ---
 
-### 💌 Vamos nos conectar?
+### Contate-me!
 
 <p align="center">
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:menengucivictoria@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/seuusuario">
+  <a href="https://www.linkedin.com/in/victoria-menenguci-493090195">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/seuusuario">
+  <a href="https://www.instagram.com/almdvctrx">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<div align="center">
-  ✨ Obrigada por visitar meu perfil! ✨
-</div>
